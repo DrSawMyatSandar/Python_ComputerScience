@@ -20,4 +20,3 @@ if is_strong_password(password):#True
 else:
     print("Password is weak:")
     
-F
